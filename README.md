@@ -2,13 +2,7 @@
 
 ## Executive Summary: 
 
-“70% of the planet is covered by the water, the rest by Crypto enthusiasts” 
-
-One only needs to count the number of crypto-related accounts on the twitter to verify the above statement. Via this project, we are trying to understand the mood in the crypto camp of twitter just before any major fluctuation occurs in the Bitcoin price. 
-
-The general public considers it unsafe to invest in the crypto market because of its unpredictability. Hence, we aim to tackle this unpredictability by looking for the key words that are frequently used in the tweets posted just before the price fluctuation. We are also analyzing the sentiment of these tweets to see if the mood in the Twitter's crypto camp could be a good indicator of what's about to come next!
-
-This analysis mainly benefits the financial investors and the crypto enthusiasts in assessing the crypto market by looking at the twitter trends.  
+Water, water everywhere, but the crypto enthusiasts are taking over the rest of the planet, one tweet at a time! We've counted the massive number of crypto-related accounts on Twitter, and it's no joke. So, we're diving deep into the crypto camp's mood swings to predict the next big Bitcoin fluctuation. The crypto market's unpredictability makes investing risky, but we're tackling it head-on by analyzing keywords and sentiments in tweets just before the price changes. Our findings could be the secret weapon for financial investors and crypto enthusiasts looking to ride the Twitter wave to their advantage!
 
 ## Statement of Scope
 
